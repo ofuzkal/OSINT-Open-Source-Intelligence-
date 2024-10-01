@@ -1,0 +1,43 @@
+# Dark Web Nedir?
+
+Dark Web, internetin indekslenmeyen ve özel yazılımlar aracılığıyla erişilebilen gizli bir kısmıdır. Bu ağ, kullanıcıların anonim olarak dolaşmasına ve genellikle yasa dışı işlemler yapmasına olanak tanır. Ancak, Dark Web yalnızca illegal faaliyetler için kullanılmaz; bazı kullanıcılar sansürü aşmak veya özgürce iletişim kurmak için Dark Web'i tercih eder.
+
+## Tarihi:
+
+- **1960’lar-1980’ler**: Dark Web'in kökeni, ABD Savunma Bakanlığı'nın ARPANET projesine dayanır. Güvenli iletişim amacıyla geliştirilmiş bu proje, internetin temellerini attı.
+- **1990'lar**: İnternet yaygınlaşırken, anonimlik ihtiyacı ortaya çıktı ve ilk gizlilik yazılımları geliştirildi.
+- **2000'ler**: ABD Deniz Kuvvetleri Araştırma Laboratuvarı, anonim tarama sağlayan Tor (The Onion Router) ağını geliştirdi. Tor, Dark Web'e erişim için temel araçlardan biri oldu.
+- **2011-2013**: Dark Web'de yasa dışı pazar yerleri, örneğin Silk Road, ortaya çıktı. 2013 yılında kapatılan Silk Road, yasa dışı ticaretin merkeziydi.
+- **Günümüz**: Dark Web, hem yasa dışı hem de legal faaliyetler için kullanılmaya devam etmektedir. Gazeteciler ve aktivistler, sansürden kaçınmak ve gizlilik sağlamak amacıyla bu ağı kullanırlar.
+
+## Dark Web'e Nasıl Erişilir?
+
+Dark Web’e erişmek için **Tor Browser** gibi özel yazılımlar kullanılır. Tor, kullanıcıların kimliğini gizlemek için internet trafiğini şifreleyerek anonimlik sağlar.
+
+## Dark Web'deki İçerikler:
+
+- **Illegal İçerikler**: Uyuşturucu, silah, sahte kimlikler, çalıntı kredi kartları, hacker araçları.
+- **Hacker Hizmetleri**: DDoS saldırıları, phishing, zararlı yazılımlar, kiralık hackerlar.
+- **Legal Kullanımlar**: Sansürden kaçmak isteyen gazeteciler ve aktivistler.
+
+## Tehlikeler:
+
+Dark Web'de kimlik hırsızlığı, fidye yazılımları ve zararlı yazılımlarla karşılaşma riski oldukça yüksektir. Bu nedenle, güvenilir olmayan sitelerden uzak durulmalı ve ek güvenlik önlemleri alınmalıdır.
+
+## Gizlilik İçin Kullanılan Yöntemler:
+
+- **Tor Ağı**: İnternet trafiğini katmanlar halinde şifreleyerek anonimlik sağlar.
+- **Kriptografi**: Dark Web'deki işlemler genellikle şifreleme teknikleri ile korunur.
+- **VPN veya Proxy Sunucuları**: Ek anonimlik katmanı sağlar.
+- **Onion Servisleri**: Dark Web'deki siteler, `.onion` uzantısı kullanarak özel adreslerle erişilebilir.
+
+Ancak, Dark Web'de gizlilik her zaman garanti edilemez. Yanlış yapılandırmalar kimlik ihlallerine yol açabilir.
+
+## Dark Web ve Kripto Para:
+
+Kripto para birimleri, anonim ödeme yöntemi olarak Dark Web'de sıkça kullanılır. Bu, illegal işlemler için tercih edilen bir yöntemdir.
+
+## Dark Web ve Deep Web Farkı:
+
+- **Deep Web**, arama motorları tarafından indekslenmeyen internetin genel bir kısmını ifade eder (ör. şifreli veritabanları, özel içerikler).
+- **Dark Web**, Deep Web'in küçük bir alt kümesidir ve özel tarayıcılar ile erişilen anonim ve genellikle yasa dışı bir alandır.
