@@ -1,0 +1,24 @@
+#OSINT Çeşitleri
+
+##1. Sosyal Medya İstihbaratı (SOCMINT)
+Sosyal medya platformlarında yapılan paylaşımların, etkileşimlerin ve konuşmaların analiz edilmesi. Örneğin, Facebook, Twitter ve Instagram'daki konum bilgileri, arkadaşlık ilişkileri gibi veriler incelenir.
+
+**Örnek:** Çin'in sosyal kredi sistemi Susame, bireylerin çevrimiçi etkinliklerini değerlendirerek bir güvenilirlik skoru oluşturur.
+
+##2. Web İstihbaratı (WEBINT)
+Web sitelerinden, forumlardan, bloglardan ve haber sitelerinden elde edilen bilgiler. Domain bilgileri, WHOIS verileri ve sızdırılmış veri tabanları da bu kategoriye dahildir.
+
+##3. Medya İstihbaratı (MEDINT)
+Televizyon, radyo, gazeteler ve diğer medya araçlarından toplanan veriler. Günlük haberler ve analizler üzerinden hedefle ilgili bilgiler toplanabilir.
+
+##4. Akademik İstihbarat (ACADINT)
+Akademik makaleler, tezler ve konferans bildirilerinden elde edilen bilgiler.
+
+##5. Finansal İstihbarat (FININT)
+Hedefin mali durumu ve finansal geçmişine dair bilgiler. Hesap bilgileri, işlem geçmişi gibi veriler bu kategoriye girer.
+
+##6. Yer Analizi (GEOINT)
+Coğrafi bilgilerin analiz edilmesi. Harita verileri ve coğrafi bilgi sistemleri (GIS) kullanılarak yapılan analizler bu kategoridedir.
+
+##7. Teknik İstihbarat (TECHINT)
+Hedefin teknolojik altyapısı ve kullandığı güvenlik önlemleri gibi teknik detayları içerir.
