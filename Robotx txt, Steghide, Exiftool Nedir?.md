@@ -4,7 +4,7 @@ Web sitelerinin arama motorlarına hangi alanlara erişilebileceğini veya eriş
 
 ## Örnek Bir Robots.txt Dosyası:
 
-User-agent: * Disallow: /gizli-dizin/ Sitemap: https://domain/sitemap .xml
+User-agent: * Disallow: /gizli-dizin/ Sitemap: https: //domain/sitemap .xml
 
 
 # Steghide Nedir?
