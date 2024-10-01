@@ -1,0 +1,20 @@
+# OSINT nedir?
+
+OSINT (Open Source Intelligence), açık kaynaklardan elde edilen bilgilerin toplanması ve analiz edilmesi sürecidir. İnternet üzerindeki paylaşımlar, beğeniler, yorumlar gibi 
+kullanıcıların bıraktığı her türlü dijital iz, OSINT'in temelini oluşturur. Bilgilerin hızlı yayılması ve kolay erişimi sayesinde, dijital ortamda yapılan her etkileşim OSINT'e katkıda bulunur.
+
+
+
+# OSINT'in Kullanım Alanları
+
+- **Sızma Testleri**: Hedef sistemle ilgili açık verilerin toplanarak analiz edilmesi ve bu verilerle hedefe sızmayı kolaylaştıracak yolların tespit edilmesi.
+- **Bilgi Güvenliği**: Toplanan bilgilerle sistemin zayıf yönleri belirlenir ve güvenlik iyileştirmeleri yapılır.
+- **Yasal ve Etik**: OSINT tamamen açık kaynak verilerden oluştuğu için yasaldır.
+
+# OSINT ile Neler Yapılabilir?
+
+- **Maliyet Avantajı**: OSINT araçlarının çoğu ücretsizdir, bu yüzden bilgi toplama aşamasında büyük bütçeler gerekmez.
+- **Zaman Kazancı**: Hedef ile doğrudan temas kurulmadığı için zaman kazandırır.
+- **Bilgi Çeşitliliği**: Sosyal medya hesapları, alan adları, DNS bilgileri ve e-posta adresleri gibi birçok farklı alandan veri toplanabilir.
+
+
