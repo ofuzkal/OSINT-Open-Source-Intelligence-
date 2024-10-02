@@ -1,0 +1,39 @@
+# OSINT Araçları ve Data Paylaşımı Yapan Siteler
+
+## Epieos ([https://epieos.com/](https://epieos.com/))
+**Epieos**, e-posta arama motoru ve OSINT araçları sunan bir platformdur. E-posta adreslerinden bilgi çıkarma, e-posta adresinin kullanıldığı yerleri bulma gibi işlevlere sahiptir.
+
+## Birdhunt ([https://birdhunt.huntintel.io/](https://birdhunt.huntintel.io/))
+**Birdhunt**, OSINT araştırmaları için kullanılan bir araçtır. Sosyal medya hesaplarına yönelik analizler yaparak, hesap hareketleri ve kullanıcı profili hakkında bilgi toplamaya olanak tanır.
+
+## Yopmail ([https://yopmail.com/](https://yopmail.com/))
+**Yopmail**, geçici e-posta hizmeti sunan bir web sitesidir. OSINT çalışmalarında kullanılabilecek geçici hesaplar oluşturarak gizlilik sağlayabilir.
+
+## Exif.tools ([https://exif.tools/](https://exif.tools/))
+**Exif.tools**, görsellerin meta verilerini analiz etmeye yarayan bir araçtır. Görselin çekildiği cihaz bilgileri, çekim zamanı gibi Exif verilerini çıkarmaya olanak tanır.
+
+## PimEyes ([https://pimeyes.com/](https://pimeyes.com/))
+**PimEyes**, yüz tanıma motorudur. Kullanıcı, bir yüzün fotoğrafını yükleyerek o kişinin internette yer alan görüntülerini bulabilir. OSINT araştırmalarında görüntü tabanlı analizler için kullanılır.
+
+## TinEye ([https://tineye.com/](https://tineye.com/))
+**TinEye**, tersine görsel arama motorudur. Yüklenen bir görselin internette başka nerelerde kullanıldığını bulmaya olanak tanır.
+
+## Netlas ([https://app.netlas.io/](https://app.netlas.io/))
+**Netlas**, siber güvenlik ve OSINT araştırmalarında kullanılan bir platformdur. Ağ varlıklarını tarayarak, sistem açıkları ve zafiyetler hakkında bilgi sağlar.
+
+## Wappalyzer
+**Wappalyzer**, bir web sitesinde kullanılan teknolojileri tanımlamaya yarayan bir araçtır. Hangi yazılım çerçevesi, CMS, analiz araçları kullanıldığını öğrenmek için kullanılır.
+
+# Data Paylaşımı Yapan Siteler
+
+## Hunter.io ([https://hunter.io/](https://hunter.io/))
+**Hunter.io**, bir web sitesine bağlı e-posta adreslerini bulmaya yarayan bir OSINT aracıdır. Özellikle kurumsal e-posta adreslerini listelemek için kullanılır.
+
+## Maltego
+**Maltego**, grafiksel bir bağlantı haritalama aracıdır. Birçok farklı veri kaynağını bir araya getirerek kişilerin ve kurumların dijital varlıklarını analiz etmeye yarar.
+
+## FOCA
+**FOCA**, metadata çıkarımı yapmaya yarayan bir OSINT aracıdır. Belgelerden gizli bilgi elde etmek için kullanılır.
+
+## Spiderfoot
+**Spiderfoot**, kapsamlı OSINT taramaları yapan bir araçtır. DNS bilgileri, IP adresleri, sosyal medya hesapları gibi birçok kaynaktan veri toplayarak analiz eder.
