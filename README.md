@@ -1,3 +1,5 @@
 # OSINT-Open-Source-Intelligence
-**İstanbu Gelişim Üniversitesi Siber Akademi Projesi**
+
+**İstanbul Gelişim Üniversitesi Siber Akademi Projesi**
+
 **Kaynak:Utku Yıldız**
